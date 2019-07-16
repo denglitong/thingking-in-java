@@ -30,3 +30,4 @@ jre/
 *.jmod
 
 .DS_Store
+out/
