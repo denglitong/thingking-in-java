@@ -31,5 +31,10 @@ public class Main {
             }
         }
         System.out.println("label continue finished");
+
+        System.out.println(OptType.init.getClass()); // class com.denglitong.OptType
+        System.out.println(OptType.init.getNumber());
+        System.out.println(OptType.init.getName());
+        System.out.println(OptType.class); // class com.denglitong.OptType
     }
 }
