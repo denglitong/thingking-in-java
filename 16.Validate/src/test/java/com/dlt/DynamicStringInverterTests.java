@@ -17,7 +17,7 @@ import java.util.stream.Stream;
 public class DynamicStringInverterTests {
     Stream<DynamicTest> testVersions(String id, Function<StringInverter, String> test) {
         List<StringInverter> versions = Arrays.asList(
-                new Inverter1(), new Inverter2(), new Inverter3()
+                new Inverter1(), new Inverter2(), new Inverter3(), new Inverter4()
         );
         return DynamicTest.stream(
                 versions.iterator(),
