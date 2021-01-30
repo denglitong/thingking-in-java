@@ -15,6 +15,14 @@ import java.lang.annotation.Target;
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
 public @interface UseCase {
-    int id();
+    // 注解可用的类型有：
+    // 所有基本类型（int, float, boolean 等）
+    // String, Class, enum, Annotation
+    // 以上类型的数组类型
+    // 注解可以嵌套
+
+    // 元素要么有默认值，要么在使用时传值，不能有不确定的值
+    int id() default -1;
+    // 非基本类型的元素默认值都不能使用 null，因为不能区分缺失和默认
     String description() default "no description";
 }
