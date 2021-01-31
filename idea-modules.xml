@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10.Interface/10.Interface.iml" filepath="$PROJECT_DIR$/10.Interface/10.Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.InnerClass/11.InnerClass.iml" filepath="$PROJECT_DIR$/11.InnerClass/11.InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.Collection/12.Collection.iml" filepath="$PROJECT_DIR$/12.Collection/12.Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.FunctionalProgramming/13.FunctionalProgramming.iml" filepath="$PROJECT_DIR$/13.FunctionalProgramming/13.FunctionalProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.Stream/14.Stream.iml" filepath="$PROJECT_DIR$/14.Stream/14.Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Exception/15.Exception.iml" filepath="$PROJECT_DIR$/15.Exception/15.Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16.Validate/16.Validate.iml" filepath="$PROJECT_DIR$/16.Validate/16.Validate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/17.File.iml" filepath="$PROJECT_DIR$/untitled/17.File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.Files/17.Files.iml" filepath="$PROJECT_DIR$/17.Files/17.Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18.String/18.String.iml" filepath="$PROJECT_DIR$/18.String/18.String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19.RunTimeTyeInfomation/19.RunTimeTyeInfomation.iml" filepath="$PROJECT_DIR$/19.RunTimeTyeInfomation/19.RunTimeTyeInfomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.GenericType/20.GenericType.iml" filepath="$PROJECT_DIR$/20.GenericType/20.GenericType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21.Arrays/21.Arrays.iml" filepath="$PROJECT_DIR$/21.Arrays/21.Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22.Enum/22.Enum.iml" filepath="$PROJECT_DIR$/22.Enum/22.Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23.Annotation/23.Annotation.iml" filepath="$PROJECT_DIR$/23.Annotation/23.Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23.Annotations/23.Annotations.iml" filepath="$PROJECT_DIR$/23.Annotations/23.Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.EveryThingIsObject/3.EveryThingIsObject.iml" filepath="$PROJECT_DIR$/3.EveryThingIsObject/3.EveryThingIsObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.ControlFlow/5.ControlFlow.iml" filepath="$PROJECT_DIR$/5.ControlFlow/5.ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.InitAndClean/6.InitAndClean.iml" filepath="$PROJECT_DIR$/6.InitAndClean/6.InitAndClean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.Packaging/7.Packaging.iml" filepath="$PROJECT_DIR$/7.Packaging/7.Packaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.Reuse/8.Reuse.iml" filepath="$PROJECT_DIR$/8.Reuse/8.Reuse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.Polymorphism/9.Polymorphism.iml" filepath="$PROJECT_DIR$/9.Polymorphism/9.Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/thingking-in-java.iml" filepath="$PROJECT_DIR$/.idea/thingking-in-java.iml" />
+    </modules>
+  </component>
+</project>
