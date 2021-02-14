@@ -1,8 +1,9 @@
-package main.java.com.dlt;
+package com.dlt;
 
-import com.google.common.base.*;
+import com.google.common.base.VerifyException;
 
-import static com.google.common.base.Verify.*;
+import static com.google.common.base.Verify.verify;
+import static com.google.common.base.Verify.verifyNotNull;
 
 /**
  * @autor denglitong

@@ -1,6 +1,6 @@
-package main.java.com.dlt;
+package com.dlt;
 
-import static com.google.common.base.Preconditions.*;
+import static com.google.common.base.Preconditions.checkNotNull;
 
 /**
  * @author denglitong

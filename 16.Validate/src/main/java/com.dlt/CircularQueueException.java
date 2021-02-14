@@ -1,4 +1,4 @@
-package main.java.com.dlt;
+package com.dlt;
 
 /**
  * @autor denglitong

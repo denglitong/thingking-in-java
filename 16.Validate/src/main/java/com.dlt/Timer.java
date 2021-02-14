@@ -1,4 +1,4 @@
-package main.java.com.dlt;
+package com.dlt;
 
 import static java.util.concurrent.TimeUnit.NANOSECONDS;
 

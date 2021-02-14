@@ -1,15 +1,12 @@
-package main.java.com.dlt;
+package com.dlt;
 
 /**
  * @author denglitong
  * @date 2020/2/8
  */
-public class Inverter3 implements StringInverter {
+public class Inverter2 implements StringInverter {
 	@Override
 	public String invert(String str) {
-		if (str.length() > 30) {
-			throw new RuntimeException("argument too long!");
-		}
 		StringBuilder result = new StringBuilder();
 		for (int i = 0; i < str.length(); i++) {
 			char c = str.charAt(i);
