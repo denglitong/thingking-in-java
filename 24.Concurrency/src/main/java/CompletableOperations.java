@@ -50,7 +50,7 @@ public class CompletableOperations {
 		c = new CompletableFuture<>();
 		c.thenApplyAsync(i -> i + 42)
 				.thenApplyAsync(i -> i * 12);
-		// 依赖该cf为前置任务的其他任务数量
+		// 依赖该cf为前置任务的其他链路数量（多个thenApplyAsync使用.同时连接时视为一个链路）
 		System.out.println("dependents: " + c.getNumberOfDependents()); // 1
 		c.thenApplyAsync(i -> i / 2);
 		System.out.println("dependents: " + c.getNumberOfDependents()); // 2
